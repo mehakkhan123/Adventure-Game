@@ -1,5 +1,5 @@
 {
-  "name": "node",
+  "name": "mk-adventuregame",
   "version": "1.0.0",
   "description": "Adventure Game with typeScript, Node.js and inquirer",
   "main": "index.js",
